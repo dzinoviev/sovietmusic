@@ -8,6 +8,6 @@ The first row of the CSV file contains column headers.
 
 * group – name of the group (may be repeated for each performer)
 * person – name of the performer
-* style – group genre or genres (semicolon-separated; may be repeated for each performer, but still refer to the group)
+* style – group genre(s), semicolon-separated (may be repeated for each performer, but still refers to the group as a whole)
 * year – group formation year (may be repeated for each performer)
 * url – Wikipedia page for the group or performer
