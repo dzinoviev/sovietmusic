@@ -7,17 +7,17 @@ The dataset consists of three CSV files. Each file's first row contains column h
 ## Data dictionary
 
 * genres.csv – original and coded genres
-** genre – original genre designation (possibly in the original language)
-** code – genre designation in English
+  * genre – original genre designation (possibly in the original language)
+  * code – genre designation in English
 
 * groups.csv
-** name – group name (possibly in the original language)
-** genres – original genre(s), semicolon-separated (possibly in the original language)
-** year – group formation year
-** url – Wikipedia page for the group
-** genres_coded – coded genre(s), semicolon-separated
+  * name – group name (possibly in the original language)
+  * genres – original genre(s), semicolon-separated (possibly in the original language)
+  * year – group formation year
+  * url – Wikipedia page for the group
+  * genres_coded – coded genre(s), semicolon-separated
 
 * musicians.csv
-** group – group name (possibly in the original language)
-** person – name of the performer (possibly in the original language)
-** url – Wikipedia page for the performer; if the performer is mentioned more than once, the URL is mentioned only once
+  * group – group name (possibly in the original language)
+  * person – name of the performer (possibly in the original language)
+  * url – Wikipedia page for the performer; if the performer is mentioned more than once, the URL is mentioned only once
