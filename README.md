@@ -21,3 +21,6 @@ The dataset consists of three CSV files. Each file's first row contains column h
   * group – group name (possibly in the original language)
   * person – name of the performer (possibly in the original language)
   * url – Wikipedia page for the performer; if the performer is mentioned more than once, the URL is mentioned only once
+
+## DOI
+Please cite this dataset by its DOI: 10.13140/RG.2.1.1179.0964.
